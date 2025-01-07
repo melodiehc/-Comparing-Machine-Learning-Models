@@ -74,4 +74,4 @@ This project was a hands-on opportunity to deepen our understanding of machine l
 ---
 
 ## Author
-CS-377 Team - Project 2
+CS-377 Melodie Cornelly - Project 2
